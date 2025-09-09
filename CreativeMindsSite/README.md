@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Creative Minds
 
 Welcome to Creative Minds, a modern and responsive website built with **HTML, CSS, JavaScript, and Bootstrap**.  
@@ -27,4 +27,4 @@ This project is designed as a **creative portfolio-style webpage** that highligh
 =======
 # CreativeMinds
 Hello everyone! I have developed a responsive website using HTML, CSS, JavaScript, and Bootstrap. The project features a clean design with sections for services, projects, team, and contact, making it suitable for creative agencies, portfolios, or personal use.
->>>>>>> 8750db6f76d5782e6ca21df4b1fbc11f6761f6fa
+

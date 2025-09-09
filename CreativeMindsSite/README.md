@@ -24,7 +24,4 @@ This project is designed as a **creative portfolio-style webpage** that highligh
 - Bootstrap 5 – Grid system, components, and layout  
 
 
-=======
-# CreativeMinds
-Hello everyone! I have developed a responsive website using HTML, CSS, JavaScript, and Bootstrap. The project features a clean design with sections for services, projects, team, and contact, making it suitable for creative agencies, portfolios, or personal use.
 
